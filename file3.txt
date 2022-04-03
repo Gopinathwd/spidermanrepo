@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+java program for file3.txt
+=======
+creating python code for sample
+>>>>>>> python
